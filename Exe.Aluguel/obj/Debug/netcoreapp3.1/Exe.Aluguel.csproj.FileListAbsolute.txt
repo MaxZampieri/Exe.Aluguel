@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\Exe.Aluguel\Exe.Aluguel\bin\Debug\netcoreapp3.1\Exe.Aluguel.exe
+C:\Users\Usuario\source\repos\Exe.Aluguel\Exe.Aluguel\bin\Debug\netcoreapp3.1\Exe.Aluguel.deps.json
+C:\Users\Usuario\source\repos\Exe.Aluguel\Exe.Aluguel\bin\Debug\netcoreapp3.1\Exe.Aluguel.runtimeconfig.json
+C:\Users\Usuario\source\repos\Exe.Aluguel\Exe.Aluguel\bin\Debug\netcoreapp3.1\Exe.Aluguel.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Exe.Aluguel\Exe.Aluguel\bin\Debug\netcoreapp3.1\Exe.Aluguel.dll
+C:\Users\Usuario\source\repos\Exe.Aluguel\Exe.Aluguel\bin\Debug\netcoreapp3.1\Exe.Aluguel.pdb
+C:\Users\Usuario\source\repos\Exe.Aluguel\Exe.Aluguel\obj\Debug\netcoreapp3.1\Exe.Aluguel.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Exe.Aluguel\Exe.Aluguel\obj\Debug\netcoreapp3.1\Exe.Aluguel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Exe.Aluguel\Exe.Aluguel\obj\Debug\netcoreapp3.1\Exe.Aluguel.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Exe.Aluguel\Exe.Aluguel\obj\Debug\netcoreapp3.1\Exe.Aluguel.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Exe.Aluguel\Exe.Aluguel\obj\Debug\netcoreapp3.1\Exe.Aluguel.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Exe.Aluguel\Exe.Aluguel\obj\Debug\netcoreapp3.1\Exe.Aluguel.dll
+C:\Users\Usuario\source\repos\Exe.Aluguel\Exe.Aluguel\obj\Debug\netcoreapp3.1\Exe.Aluguel.pdb
+C:\Users\Usuario\source\repos\Exe.Aluguel\Exe.Aluguel\obj\Debug\netcoreapp3.1\Exe.Aluguel.genruntimeconfig.cache
